@@ -48,7 +48,6 @@ public class DispatcherEventHandler implements ReadCallbackHandler {
 
     //Not using this currently.
 //    private final ByteBufferPool writeBufferPool = new ByteBufferPool(5);
-    ApplicationHandler appHandler = ApplicationHandler.instance;
 
     private DispatcherEventHandler() {
     }
